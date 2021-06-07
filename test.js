@@ -1,1 +1,1 @@
-hola
+console.log(1)
